@@ -1,0 +1,10 @@
+📊 Informacion del Sistema
+========================================
+Sistema Operativo        : Windows
+Version del Sistema      : 10.0.19045
+Tipo de máquina          : AMD64
+Procesador               : Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
+Plataforma Completa      : Windows-10-10.0.19045-SP0
+Implementacion de python : CPython
+Version de python        : 3.12.3
+========================================
