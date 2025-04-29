@@ -1,0 +1,1 @@
+from .texto import contar_palabras
